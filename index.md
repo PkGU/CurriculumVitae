@@ -62,6 +62,6 @@
 | Mathematical Statistics | *TBA* | 4 |
 | Bayesian Statistics **(Grad)** | *TBA* | 3 |
 
-# 2021-2022 Research Program in USTC
+# 2021-2022 Undergraduate Research Program in USTC
 
   
