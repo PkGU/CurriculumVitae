@@ -60,8 +60,8 @@
 | Differential Geometry | *TBA* | 4 |
 | Machine Learning | *TBA* | 4 |
 | Mathematical Statistics | *TBA* | 4 |
-| Bayesian Statistics **(Grad)** | *TBA* | 3 |
+| Bayesian Data Analysis **(Grad)** | *TBA* | 3 |
 
-# 2021-2022 Undergraduate Research Program in USTC  
+# 2021-2022 Undergraduate Research Program in USTC
  
 # [Back to Homepage](https://pkgu.github.io)
