@@ -1,1 +1,1 @@
-# Past-Scores
+https://pkgu.github.io/Past-Scores/
