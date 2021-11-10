@@ -1,6 +1,4 @@
 # [<-](https://pkgu.github.io)
-
-## ~~(Uncompleted)~~
  
 # All Scores of Past Major Courses
 
