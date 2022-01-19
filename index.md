@@ -41,26 +41,25 @@
 | Riemannian Geometry **(Grad)** | 90 | 4 |
 | Complex Geometry **(Grad)** | 77 [^1] | 4 |
 
-[^1]: There's 14 students in this high-level graduate course and the highest score is below 90. I'm the youngest among them and my rank statistics is [unknown]. 
+[^1]: The highest score in this class is under 90, and the professor is famous for his harshness in giving points. I'm the youngest among the students and my rank is [unknown]. 
 
 ### - Gap Year
 
 | **Course** | **Score** | **Credits** |
 | :--- | :--- | :---: |
-| Differential Equations [^2] | 82 | 4 |
+| Differential Equations **1** | 82 | 4 |
 | Riemann Surfaces **(Grad)** | 85 | 4 |
 
-[^2]: This course is retaken for better score.
 
 ### - 2021 Fall
 
 | **Course** | **Score** | **Credits** |
 | :--- | :--- | :---: |
-| Functional Analysis | *TBA* | 4 |
-| Differential Geometry | *TBA* | 4 |
+| Functional Analysis | 91 | 4 |
+| Differential Geometry | 87 | 4 |
 | Machine Learning | *TBA* | 4 |
-| Mathematical Statistics | *TBA* | 4 |
-| Bayesian Data Analysis **(Grad)** | *TBA* | 3 |
+| Mathematical Statistics | 95 | 4 |
+| Bayesian Data Analysis **(Grad)** | 93 | 3 |
 
 # 2021-2022 Undergraduate Research Program in USTC
  
