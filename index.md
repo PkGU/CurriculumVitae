@@ -57,10 +57,23 @@
 | :--- | :--- | :---: |
 | Functional Analysis | 91 | 4 |
 | Differential Geometry | 87 | 4 |
-| Machine Learning | *TBA* | 4 |
+| Machine Learning | 95 | 4 |
 | Mathematical Statistics | 95 | 4 |
 | Bayesian Data Analysis **(Grad)** | 93 | 3 |
 
 # 2021-2022 Undergraduate Research Program in USTC
+
+TBA
+
+### - 2022 Spring
+
+| **Course** | **Score** | **Credits** |
+| :--- | :--- | :---: |
+| Regression Analysis | TBA | 4 |
+| Time Series Analysis | TBA | 4 |
+| Differential Equations **2** | TBA | 4 |
+| Limiting theory **(Grad)** | TBA | 4 |
+| Stochastic Processes **(Grad)** | TBA | 4 |
+
  
 # [Back to Homepage](https://pkgu.github.io)
