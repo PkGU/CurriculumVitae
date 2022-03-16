@@ -70,9 +70,9 @@ TBA
 | **Course** | **Score** | **Credits** |
 | :--- | :--- | :---: |
 | Regression Analysis | TBA | 4 |
-| Time Series Analysis | TBA | 4 |
+| Non-Parametric Statistics | TBA | 3 |
 | Differential Equations **2** | TBA | 4 |
-| Limiting theory **(Grad)** | TBA | 4 |
+| Information theory **(Grad)** | TBA | 3 |
 | Stochastic Processes **(Grad)** | TBA | 4 |
 
  
