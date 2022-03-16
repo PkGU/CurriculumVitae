@@ -8,8 +8,8 @@
 | :--- | :--- | :---: |
 | Regression Analysis | TBA | 4 |
 | Non-Parametric Statistics | TBA | 3 |
-| Differential Equations **2** | TBA | 4 |
-| Information theory **(Grad)** | TBA | 3 |
+| Differential Equations 2 | TBA | 4 |
+| Information Theory **(Grad)** | TBA | 3 |
 | Stochastic Processes **(Grad)** | TBA | 4 |
 
 - Mean: TBA
@@ -34,7 +34,7 @@ TBA
 
 | **Course** | **Score** | **Credits** |
 | :--- | :--- | :---: |
-| Differential Equations **1** | 82 | 4 |
+| Differential Equations 1 | 82 | 4 |
 | Riemann Surfaces **(Grad)** | 85 | 4 |
 
 ### - 2020 Spring
@@ -55,8 +55,8 @@ TBA
 
 | **Course** | **Score** | **Credits** |
 | :--- | :--- | :---: |
-| Linear Algebra A **2** | 91 | 4 |
-| Analysis A **3** | 85 | 4 |
+| Linear Algebra A2 | 91 | 4 |
+| Analysis A3 | 85 | 4 |
 | Algebra **(Grad)** | 92 | 4 |
 | Commutative Algebra **(Grad)** | 88 | 4 |
 | Algebraic Topology **(Grad)** | 88 | 4 |
@@ -67,9 +67,9 @@ TBA
 
 | **Course** | **Score** | **Credits** |
 | :--- | :--- | :---: |
-| Linear Algebra A **1** | 88 | 5 |
-| Analysis A **2** | 92 | 6 |
-| Topology **(Honor)** | 92 | 4 |
+| Linear Algebra A1 | 88 | 5 |
+| Analysis A2 | 92 | 6 |
+| Topology **(H)** | 92 | 4 |
 | Abstract Algebra | 96 | 4 |
 | Data Structures and Databases | 93 | 4 |
 
@@ -79,7 +79,7 @@ TBA
 
 | **Course** | **Score** | **Credits** |
 | :--- | :--- | :---: |
-| Analysis A **1**| 90 | 6 |
+| Analysis A1| 90 | 6 |
 | Basic Algebra | 90 | 3 |
 | Analytic Geometry | 91 | 4 |
 | Computer Programming A | 93 | 4 |
