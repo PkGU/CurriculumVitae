@@ -13,11 +13,12 @@
 ### Undergraduate Education
   ``## Updated recently on 4/19/2022``
   - Institution: *[University of Science and Technology of China](http://en.ustc.edu.cn/)*, *School of Mathematical Science*.
-  - Majoring: Statistics and Pure Math
+  - Majoring: Statistics && Pure Math
   - Overall GPA: 3.73/4.3 
   - Average Score: *[(for details)](https://github.com/PkGU/Past-Scores/blob/main/pastscores.md)*    
     &emsp; 90.4 (Major); &ensp; (Among 25 Major Courses)   
     &emsp; 89.2 (Graduate); &ensp; (Among 6 Graduate Courses)
   
+# Current Research Interest:
 
 # [Back to Homepage](https://pkgu.github.io)
