@@ -1,1 +1,1 @@
-https://pkgu.github.io/Past-Scores/
+https://pkgu.github.io/CurriculumVitae/
