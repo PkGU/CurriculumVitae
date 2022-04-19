@@ -19,7 +19,7 @@
     &emsp; 90.4 (Major); &ensp; (Among 25 Major Courses)   
     &emsp; 89.2 (Graduate); &ensp; (Among 6 Graduate Courses)
   
-# Current Research Interest:
+# Research Interest:
 
 # Publications:
   - NOTHING
