@@ -16,8 +16,8 @@
   - Majoring: Statistics and Pure Math
   - Overall GPA: 3.73/4.3 
   - Average Score: *[(for details)](https://github.com/PkGU/Past-Scores/blob/main/pastscores.md)*    
-    &emsp; 90.4 (Major);  ``##(Among 25 Major Courses)``  
-    &emsp; 89.2 (Graduate);  ``##(Among 6 Graduate Courses) ``  
+    &emsp; 90.4 (Major); &ensp; (Among 25 Major Courses)
+    &emsp; 89.2 (Graduate); &ensp; (Among 6 Graduate Courses)
   
 
 # [Back to Homepage](https://pkgu.github.io)
