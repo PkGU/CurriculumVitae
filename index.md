@@ -29,6 +29,6 @@
   - Language tests:   
     &emsp; TOEFL: 102;   
     &emsp; GRE: TBA;    
-  - Past Programming Projects: *[(Here)](https://pkgu.github.io/Past-Projects/)*  
+  - Programming Projects: *[(Here)](https://pkgu.github.io/Past-Projects/)*  
 
 # [Back to Homepage](https://pkgu.github.io)
