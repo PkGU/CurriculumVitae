@@ -12,7 +12,7 @@
 
 ### Undergraduate Education
   ``## Updated recently on 4/19/2022``
-  - Institution: *School of Mathematical Science*,   
+  - Institution: *[School of Mathematical Science](http://math.ustc.edu.cn/ENGLISH/list.htm)*,   
     &emsp; *[University of Science and Technology of China](http://en.ustc.edu.cn/)*, 96 Jinzhai Road, Hefei.
   - Majoring: Statistics && Pure Math
   - Overall GPA: 3.73/4.3 
