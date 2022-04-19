@@ -19,7 +19,7 @@
     &emsp; 89.2 (Graduate); &ensp; (Among 6 Graduate Courses)
   
 # Research Interests:
-  
+  - On statistical methods beneficial to engineering, including statistical computing, signal detection, latent variable models, *et cetera*.
 
 # Publications:
   - TBA
