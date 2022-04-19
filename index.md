@@ -1,9 +1,8 @@
 # [<-](https://pkgu.github.io)
 
-
+  ``## Updated recently on 4/19/2022``
 
 # Current Contact Information
-  ``## Updated recently on 4/19/2022``
   - Affiliation: *[University of Science and Technology of China](http://en.ustc.edu.cn/)*, an undergraduate junior student. 
   - E-mail: gpk@mail.ustc.edu.cn
   - Address: [Hefei](https://www.google.com/maps/place/Hefei,+Anhui,+China/@31.6097465,116.7600658,7z/), China
@@ -11,7 +10,6 @@
 # Education:
 
 ### Undergraduate Education
-  ``## Updated recently on 4/19/2022``
   - Institution: *[School of Mathematical Science](http://math.ustc.edu.cn/ENGLISH/list.htm)*,   
     &emsp; *[University of Science and Technology of China](http://en.ustc.edu.cn/)*, 96 Jinzhai Road, Hefei.
   - Majoring: Statistics && Pure Math
@@ -26,7 +24,6 @@
   - TBA
 
 # Language and Skills:
-  ``## Updated recently on 4/19/2022``
   - Language tests:   
     &emsp; TOEFL: 102;   
     &emsp; GRE: TBA;    
